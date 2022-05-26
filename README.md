@@ -1,4 +1,6 @@
-# Ubuntu-Gnome-Dock-Launcher-for-NVIDIA-SMI
+# Ubuntu Gnome Dock Launcher for NVIDIA-SMI
+
+![screenshot](example-use.png)
 
 A launcher for the NVIDIA System Management Interface (SMI) that can be used through the Ubuntu Gnome dock.
 
