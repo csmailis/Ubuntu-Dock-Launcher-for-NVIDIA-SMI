@@ -13,7 +13,7 @@
 
 * chmod +x install_nvidia_smi_launcher.sh
 * sudo --preserve-env=HOME ./install_nvidia_smi_launcher.sh 
-* After installation, click on the "Show Applications" button of the Ubuntu Gnome Dock, find the NVIDIA icon of the launcher, right click on it, and select "Add to Favorites"
+* After installation, click on the "Show Applications" button of the Ubuntu Gnome Dock, find the NVIDIA icon of the launcher, right click on it, and select "Add to Favorites".
 
 ### Removal:
 * chmod +x uninstal_nvidia_smi_launcher.sh
