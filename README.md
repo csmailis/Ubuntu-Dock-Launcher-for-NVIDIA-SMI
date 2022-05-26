@@ -5,10 +5,13 @@
 ### What is this ?
 * A launcher for the NVIDIA System Management Interface (NVIDIA-SMI) that can be used through the Ubuntu Gnome dock.
 * Intended to be used as a convenience, instead of typing "watch -n0.1 nvidia-smi" in a terminal, every time you want to monitor the status of your NVIDIA graphics card (e.g., VRAM and GPU utilization while training deep learning models).
-* Tested with Ubuntu 22.04.
+
+### Prerequisites:
+* Ubuntu >= 20.04
+* Install the NVIDIA drivers for your Ubuntu distribution (if they are not present already).
+* GNOME
 
 ### Installation:
-* Install the NVIDIA drivers for your Ubuntu distribution (if they are not present already).
 * chmod +x install_nvidia_smi_launcher.sh
 * sudo --preserve-env=HOME ./install_nvidia_smi_launcher.sh 
 * After installation, click on the "Show Applications" button of the Ubuntu Gnome Dock, find the NVIDIA icon of the launcher, right click on it, and select "Add to Favorites".
