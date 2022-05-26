@@ -4,7 +4,7 @@
 
 ### What is this ?
 * A launcher for the NVIDIA System Management Interface (NVIDIA-SMI) that can be used through the Ubuntu Gnome dock.
-* Intended to be used as a convenience, instead of typing the "watch -n0.1 nvidia-smi" in a terminal, every time you want to monitor the status of your NVIDIA graphics card (e.g., VRAM and GPU utilization while training deep learning models).
+* Intended to be used as a convenience, instead of typing "watch -n0.1 nvidia-smi" in a terminal, every time you want to monitor the status of your NVIDIA graphics card (e.g., VRAM and GPU utilization while training deep learning models).
 * Tested with Ubuntu 22.04.
 
 ### Installation:
