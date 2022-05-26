@@ -1,4 +1,4 @@
-# Ubuntu Gnome Dock Launcher for NVIDIA-SMI
+# Ubuntu Dock Launcher for NVIDIA-SMI
 
 ![screenshot](example-use.png)
 
