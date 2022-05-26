@@ -20,5 +20,5 @@
 * sudo --preserve-env=HOME ./uninstal_nvidia_smi_launcher.sh 
 
 
-The NVIDIA icon file used in this project is available under the Creative Commons (Attribution 3.0 Unported) license, from the following link:
+The NVIDIA icon file used in this project is available under the Creative Commons (Attribution 3.0 Unported) license from the following link:
 https://www.iconfinder.com/icons/4518899/nvidia_icon
