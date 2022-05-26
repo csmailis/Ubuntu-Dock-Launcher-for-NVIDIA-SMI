@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=Development
+Comment[en_US]=NVIDIA SMI
+Comment=NVIDIA SMI
+Exec=bash ~/nvidia_smi_gnome.sh
+GenericName[en_US]=NVIDIA SMI
+GenericName=NVIDIA SMI
+Icon=~/4518899_nvidia_icon.png
+Name[en_US]=NVIDIA SMI
+Name=NVIDIA SMI
+Terminal=true
+TerminalOptions=
+Type=Application
+Version=1.1
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+
