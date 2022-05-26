@@ -10,7 +10,7 @@
 * Tested with Ubuntu 22.04.
 
 ### Installation:
-
+* Install the NVIDIA Drivers for your Ubuntu distribution.
 * chmod +x install_nvidia_smi_launcher.sh
 * sudo --preserve-env=HOME ./install_nvidia_smi_launcher.sh 
 * After installation, click on the "Show Applications" button of the Ubuntu Gnome Dock, find the NVIDIA icon of the launcher, right click on it, and select "Add to Favorites".
