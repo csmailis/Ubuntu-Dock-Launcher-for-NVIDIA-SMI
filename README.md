@@ -11,7 +11,7 @@ Tested with Ubuntu 22.04.
 ### Installation:
 
 * chmod +x install_nvidia_smi_icons.sh
-* sudo --preserve-env=HOME ./install_nvidia_smi_icons.sh 
+* sudo --preserve-env=HOME ./install_nvidia_smi_launcher.sh 
 
 ### Removal:
 * chmod +x uninstal-nvidia-smi-launcher.sh
