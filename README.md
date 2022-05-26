@@ -14,5 +14,5 @@ Tested with Ubuntu 22.04.
 * sudo --preserve-env=HOME ./install_nvidia_smi_launcher.sh 
 
 ### Removal:
-* chmod +x uninstal-nvidia-smi-launcher.sh
-* sudo --preserve-env=HOME ./uninstal-nvidia-smi-launcher.sh 
+* chmod +x uninstal_nvidia_smi_launcher.sh
+* sudo --preserve-env=HOME ./uninstal_nvidia_smi_launcher.sh 
