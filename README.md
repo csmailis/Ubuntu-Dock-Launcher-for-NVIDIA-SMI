@@ -7,3 +7,8 @@ A launcher for the NVIDIA System Management Interface (SMI) that can be used thr
 This launcher is intended to be used as a convenience, instead of typing the "watch -n0.1 nvidia-smi" in a terminal, every time you want to monitor the status of your Nvidia graphics card (e.g., VRAM and GPU utilization while training deep learning models).
 
 Tested with Ubuntu 22.04.
+
+### Installation:
+
+* chmod +x install_nvidia_smi_icons.sh
+* ./install_nvidia_smi_icons.sh
