@@ -7,7 +7,7 @@
 * Intended to be used as a convenience, instead of typing "watch -n0.1 nvidia-smi" in a terminal, every time you want to monitor the status of your NVIDIA graphics card (e.g., VRAM and GPU utilization while training deep learning models).
 
 ### Prerequisites:
-* Ubuntu >= 20.04
+* Ubuntu >= 20.04++
 * Install the NVIDIA drivers for your Ubuntu distribution (if they are not present already).
 * GNOME
 
